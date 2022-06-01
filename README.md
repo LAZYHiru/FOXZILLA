@@ -1,2 +1,6 @@
 # FOXZILLA
-III      III      III      III      III
+III      III  III  IIIIIII   III      III
+III      III       III  III  III      III
+IIIIIIIIIIII  III  IIIIIII   III      III
+III      III  III  III  II    III    III
+III      III  III  III   II    IIIIIII
